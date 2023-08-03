@@ -32,7 +32,8 @@ Week 4 - 08/22/2022(Mon) - 08/28/2022(Sun)     7 hours, 0 minutes
 Week 5 - 08/29/2022(Mon) - 08/31/2022(Wed)     5 hours, 0 minutes
 
 Total: 34 hours, 0 minutes
-Total rate: $4080.00 (at $120.00/hr)```
+Total rate: $4080.00 (at $120.00/hr)
+```
 
 The hourly rate is taken from the config file but can be overriden on the command line.
 
