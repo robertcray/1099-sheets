@@ -6,12 +6,12 @@ A golang program to read hours from a google sheet for a given month, summarize 
 
 The config file defaults to /usr/local/etc/1099.toml.  An example file is:
 
-`[google]
+```[google]
 credfile = "/usr/local/etc/1099.json"
 spreadsheet = "<spreadsheet-id>"
 rate=150.0
 tabname = "Sheet1"
-`
+```
 
 The credfile is a json file obtained when creating a google service account
 
